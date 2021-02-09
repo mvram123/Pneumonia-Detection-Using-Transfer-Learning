@@ -8,7 +8,7 @@ With the emerging computing power, the development of an automatic pneumonia det
 
 ## Dataset
 
-The dataset I’m using here is stored as .jpg files in 2 different folders one is named with Normal which consists of normal chest x-ray Images and other is named with Pneumonia which consits of pneumonia images. 
+The dataset I’m using here is stored as .jpg files in 2 different folders one is named with Normal which consists of normal chest x-ray Images and other is named with Pneumonia which consists of pneumonia images. 
 
 A snippet of Images present in the dataset 
 
